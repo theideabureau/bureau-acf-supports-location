@@ -5,7 +5,7 @@
 	Plugin URI: https://github.com/theideabureau/acf-supports-location
 	Version: 0.1
 	Author: The Idea Bureau
-	Description: 
+	Description: Adds a new location for Advanced Custom Fields for post type support.
 	Text Domain: acf-supports-location
 	License: GPLv3
 */
